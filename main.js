@@ -5,7 +5,7 @@ const products = [
         name:"iPhone 15 Pro Max",
         category:"گوشی",
         price:1199,
-        image:"https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=600"
+        image:"https://grest.in/cdn/shop/files/Frame_2_18.png?v=1775216405"
     },
 
 
@@ -14,7 +14,7 @@ const products = [
         name:"Sony WH-1000XM5",
         category:"هدفون",
         price:349,
-        image:"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=600"
+        image:"https://d1ncau8tqf99kp.cloudfront.net/360/M5_360view/WF-1000XM5_black_3600000_web.png"
     },
 
 
@@ -23,7 +23,7 @@ const products = [
         name:"MacBook Pro M3",
         category:"لپتاپ",
         price:1999,
-        image:"https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=600"
+        image:"https://lh4.googleusercontent.com/proxy/L8j2GpPqvgtBhVUbLLB8td9GdDfFR4U3UdfzdYVvVtfIs5k-4kL91sYiJ6O4v7jAfdw4ZrnwwsMP7dvcc0m3YmlVgErGxc9Qlemk4to3G6aQM9jF-hAqWZIJDH3XRDE_Z69XU_oQft2-oQJBUUpHtGiBVado"
     },
 
 
@@ -32,7 +32,7 @@ const products = [
         name:"ASUS ROG Gaming",
         category:"گیمینگ",
         price:1599,
-        image:"https://images.unsplash.com/photo-1593640408182-31c70c8268f5?q=80&w=600"
+        image:"https://www.sathya.store/img/product/2XHWEyvvmaEdw19U.png"
     },
 
 
@@ -41,7 +41,7 @@ const products = [
         name:"Galaxy Watch Pro",
         category:"ساعت",
         price:449,
-        image:"https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=600"
+        image:"https://pcplaceng.com/wp-content/uploads/2025/08/image-2024-09-23T162508.465.webp"
     },
 
 
@@ -50,7 +50,7 @@ const products = [
         name:"4K Ultra Monitor",
         category:"مانیتور",
         price:699,
-        image:"https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=600"
+        image:"https://images.samsung.com/is/image/samsung/p6pim/hk_en/lu28r550uqcxxk/gallery/hk-en-monitors-ur550-lu28r550uqcxxk-537156734?$624_624_PNG$"
     }
 
 ];
